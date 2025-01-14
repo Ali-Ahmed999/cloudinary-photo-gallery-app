@@ -26,7 +26,7 @@ const UploadButton = () => {
             console.log(result);
             router.refresh();
           }} 
-          uploadPreset="ewrqaie3" 
+          uploadPreset="ml_default" 
         >
           <Upload className="mr-2" /> Upload
         </CldUploadButton>
